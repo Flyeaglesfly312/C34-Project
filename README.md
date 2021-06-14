@@ -1,2 +1,2 @@
-# C34-Project
-hit the monster using a superhero attached to a string
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
